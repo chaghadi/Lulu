@@ -1,0 +1,7 @@
+---
+title: "Welcome to PS Tech"
+---
+
+# Welcome to PS Tech
+
+This is the main page of the site.
