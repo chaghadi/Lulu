@@ -1,3 +1,6 @@
 [build]
+  command = "npm install -g quarto-cli && quarto render"
+  publish = "_site"
+
   command = "quarto render"
   publish = "_site"
